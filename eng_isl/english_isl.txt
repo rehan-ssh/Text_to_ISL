@@ -1,0 +1,99 @@
+What is your name?	your name what
+Where are you from?	you from where 
+Where do you come from?	You come from where
+What is your surname?	Your surname what
+What is your family name?	Your family name what
+What is your first name?	Your first name what
+What is your address?	Your address what
+Where do you live?	You live where
+What is your telephone number?	Your telephone number what
+What is your email address?	Your email address what
+How old are you?	You old how
+When and where were you born?	You born when and where
+Are you married?	You marry
+What’s your marital status?	Your marital status what
+What do you do? 	You do what
+What’s your job?	Your job what
+Where did you go ?	You go where
+Could you speak English when you were five years old?	You five year English speak what
+How do you do?	You do how
+How are you?	You how
+How can I help you?	I help you how
+May I help you?	I help you 
+Can I try it on?	I it try?
+Have you got something bigger?	You something bigger got?
+How much does it cost? 	It cost how much? 
+How would you like to pay?	You pay how
+Can I pay by credit card?	I credit card pay? 
+What’s that?	That what
+What time is it?	Time what
+May I open the window?	I window open
+Is there a bakery near here?	there bakery here near?
+Where is the nearest bank?	Bank near where
+Who wrote this article?	Article wrote who
+Is there any rice?	there any rice? 
+Are there any sandwiches?	there any sandwich?
+Is this your book?	Your book
+Whose is that?	That who
+What do you like to do on weekends?	you weekend like do what 
+What does she look like?	She look like what
+What would you like to eat?	You like eat what
+What is it like?	It like what
+What’s the weather like?	Weather like what
+Would you like some coffee?	Coffee like you
+Would you like something to drink?	you like drink what
+What’s it about?	It about what
+What do you think about this book?	you book think what
+Is it difficult to prepare for GATE?	GATE prepare difficult
+What are your views on Donald Trump as the America’s President?	Your view Donald Trump as America's President what
+How was the movie?	Movie how
+How do you feel about Clara?	you about clara feel how
+how about some lunch?	Lunch how
+Why don’t you take some time out and rest?	You time out and rest take not why
+What shall we do this evening?	we evening do what
+Why don’t we go out visit some old friends this afternoon?	We visit old friend afternoon this go not why
+How many siblings do you have?	You siblings many how?
+Are you in a relationship?	You in relationship?
+Do you have any nicknames?	you nickname any?
+Where do you study?	You study where
+What’s your favourite colour?	Your favourite colour what
+What’s your favourite food?	Your favourite food what
+What’s your favourite movie?	Your favourite movie what
+What’s your favourite TV show?	Your favourite TV show what
+What’s your favourite game?	Your favourite game what
+How tall are you?	You tall how
+What’s your weight?	Your weight what
+Who was your first crush?	Your first crush what
+Who was your first partner?	Your first partner who
+What is your birth of date?	Your birth of date what
+What are your future plans?	Your future plans what
+Do you like or hate your job?	You your job like or hate?
+What’s your hobby?	Your hobby what
+What are your talents?	Your talents what
+What would your superhero name be?	Your superhero name what
+Are you a psychic in any way?	you psychic in any way?
+Most embarrassing thing to happen to you?	most embarrass thing you happen?
+Best thing to happen to you?	you happen best what
+What your shoe size is?	your shoe size what
+What is your favourite outfit?	your favourite outfit what
+Do you prefer to wear eastern or western?	you eastern or western wear prefer?
+What are your favourite type of shoes?	your favourite type of shoes what
+Are you a good actor?	you good actor?
+Are you a good liar?	you good liar? 
+Do you prefer to live alone or with someone?	you alone or with someone prefer live?
+Your favourite job and why?	your favourite job what and why
+What’s the scariest thing you’ve done?	you scare thing do what
+Do you have any family secrets?	you family secrets have any?
+What’s your hairstyle?	your hairstyle what
+How do you look without makeup?	you without makeup look how
+Do you know how to swim?	you swim know how
+Name of the highest building in your area?	your area high building name what
+Are you afraid of heights?	you height afraid?
+If you were given chance to paradive or go parachuting, would you?	you chance paradive or parachute go given,you do what
+Are you scared of the water?	you water scare?
+Do you like traveling?	you traveling like?
+Best hotel you’ve lived at?	you live best hotel what
+Worst hotel you’ve lived at?	you live worst hotel what
+Worst country you’ve been to?	you be worst country what
+Best country you’ve been to?	you be best country what
+How is your country’s community?	your country community how
